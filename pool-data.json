@@ -15,10 +15,11 @@
     "poolFilters": [],
     "rewardPools": [
       {
+        "address": "0x434B37Ab01B876106be066AA91d276a1377dD93D",
         "stakedToken": "0xb269A278E427478712e2AF0eBa728021157A2114",
         "rewardToken": {
           "address": "0xe4E96Cf369D4d604Bedc4d7962F94D53E4B5e3C6",
-          "name": "WBNB",
+          "name": "Wrapped BNB",
           "symbol": "WBNB",
           "logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850",
           "rewardPerBlock": "0.001929012"
@@ -26,8 +27,37 @@
         "rewardPerBlock": "0.001929012",
         "poolLimitPerUser": 0,
         "numberBlocksForUserLimit": 0,
-        "numberOfDaysToRun": 90,
-        "address": "0x434B37Ab01B876106be066AA91d276a1377dD93D"
+        "numberOfDaysToRun": 90
+      },
+      {
+        "address": "0xe21B57Ca0BF40D3df5D45130b1f7AEc452BCF0c1",
+        "stakedToken": "0xb269A278E427478712e2AF0eBa728021157A2114",
+        "rewardToken": {
+          "address": "0x626355410729525eec3fd5628D840d683F24456d",
+          "name": "AShare",
+          "symbol": "ASHARE",
+          "logoURI": "https://assets.coingecko.com/coins/images/23974/small/ashare.png?1645871503",
+          "rewardPerBlock": "0.001929012"
+        },
+        "rewardPerBlock": "0.001929012",
+        "poolLimitPerUser": 0,
+        "numberBlocksForUserLimit": 0,
+        "numberOfDaysToRun": 90
+      },
+      {
+        "address": "0x2bB9e0815188b8fC7D456dBDFf4575D910d653c8",
+        "stakedToken": "0xb269A278E427478712e2AF0eBa728021157A2114",
+        "rewardToken": {
+          "address": "0xd71114b3AD1Ec657B4194E0B3b7C9fC71C7bdbEF",
+          "name": "Amesthyst",
+          "symbol": "AMES",
+          "logoURI": "https://assets.coingecko.com/coins/images/23973/small/ames.png?1645871205",
+          "rewardPerBlock": "0.001929012"
+        },
+        "rewardPerBlock": "0.001929012",
+        "poolLimitPerUser": 0,
+        "numberBlocksForUserLimit": 0,
+        "numberOfDaysToRun": 90
       }
     ]
   },
