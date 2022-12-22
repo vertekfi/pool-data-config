@@ -13,7 +13,23 @@
     ],
     "blacklistedPools": [],
     "poolFilters": [],
-    "rewardPools": ["0x434B37Ab01B876106be066AA91d276a1377dD93D"]
+    "rewardPools": [
+      {
+        "stakedToken": "0xb269A278E427478712e2AF0eBa728021157A2114",
+        "rewardToken": {
+          "address": "0xe4E96Cf369D4d604Bedc4d7962F94D53E4B5e3C6",
+          "name": "WBNB",
+          "symbol": "WBNB",
+          "logoURI": "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850",
+          "rewardPerBlock": "0.001929012"
+        },
+        "rewardPerBlock": "0.001929012",
+        "poolLimitPerUser": 0,
+        "numberBlocksForUserLimit": 0,
+        "numberOfDaysToRun": 90,
+        "address": "0x434B37Ab01B876106be066AA91d276a1377dD93D"
+      }
+    ]
   },
 
   "56": {
