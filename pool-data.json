@@ -12,13 +12,15 @@
       "0xf9cd9e48787fc32148991fc68806ef4612ebc129000200000000000000000000"
     ],
     "blacklistedPools": [],
-    "poolFilters": []
+    "poolFilters": [],
+    "rewardPools": ["0x434B37Ab01B876106be066AA91d276a1377dD93D"]
   },
 
   "56": {
     "featuredPools": [],
     "incentivizedPools": [],
     "blacklistedPools": [],
-    "poolFilters": []
+    "poolFilters": [],
+    "rewardPools": []
   }
 }
