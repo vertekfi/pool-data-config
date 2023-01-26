@@ -66,8 +66,12 @@
   },
 
   "56": {
-    "featuredPools": [],
-    "incentivizedPools": [],
+    "featuredPools": [
+      "0xdd64e2ec144571b4320f7bfb14a56b2b2cbf37ad000200000000000000000000"
+    ],
+    "incentivizedPools": [
+      "0xdd64e2ec144571b4320f7bfb14a56b2b2cbf37ad000200000000000000000000"
+    ],
     "blacklistedPools": [],
     "poolFilters": [],
     "rewardPools": [],
