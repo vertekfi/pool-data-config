@@ -94,6 +94,38 @@
       {
         "address": "0xb5c57d37cc7cCEC7Cf22836A087DEC280daB99f5",
         "poolId": "0x8e15953eba7d5f8f99853d8f3cb64fc73b3ba770000200000000000000000003"
+      },
+      {
+        "address": "0xfB1B49d41E64D44eE5ab69cD6aC8576213CE2223",
+        "poolId": "0x25b7dcdccaab62f4cacef8bc9ae20553eb1d9164000000000000000000000008"
+      },
+      {
+        "address": "0x35756EB391B93Fe3457aC4A7fae198552AC3AC28",
+        "poolId": "0xff99c17b4d778afaa6d80f59111a96178c71f59f000000000000000000000007"
+      },
+      {
+        "address": "0x2837b3A08Cbfc3Eb3E1FFe363Fb1E443667e287f",
+        "poolId": "0x188a9e5a09bffbacb6712957e9dd06fec6b3eda900020000000000000000000f"
+      },
+      {
+        "address": "0x9E7dF5b7B29d46B10C28b4AB5fb0E7b6A4ffAE55",
+        "poolId": "0x32934c1122c0d7b0fc3daab588a4490b53c1568c00020000000000000000000e"
+      },
+      {
+        "address": "0x9C4e2444d40508dF540466cCBD83855e39E5972B",
+        "poolId": "0x6e30ec031f2d94c397e469b40f86bff0be014124000200000000000000000006"
+      },
+      {
+        "address": "0xacF489Bf54F6CC6bB8b910179Ee8509d19A738BA",
+        "poolId": "0x5deb10ed6a66a1e6188b7925a723b6bdfd97476500020000000000000000000a"
+      },
+      {
+        "address": "0xFf71E6499f492Ce41c84Eefbf727774165dC5aBa",
+        "poolId": "0x64bf08fac067b25c77967affafce73760d8d0bdf000200000000000000000011"
+      },
+      {
+        "address": "0x148708d34F797473Cad01AC113CFD4208a57C081",
+        "poolId": "0x3700d8fadab83c14371d3f58d122d0c7f832e63f00020000000000000000000b"
       }
     ]
   }
