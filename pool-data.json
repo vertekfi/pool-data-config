@@ -160,6 +160,10 @@
       {
         "poolId": "0xcf61cf9654f5536b8d6c93f09a0308ff3c2650f9000200000000000000000015",
         "address": "0x355827abb16998a07700FAF52AeE09f2b01Fad4C"
+      },
+      {
+        "poolId": "0x7278a73af8c788af1e2f53b7bcc138b4f641be3500010000000000000000000c",
+        "address": "0xb49e0053C1d6ccF4250FCD21F3906f624727b722"
       }
     ]
   }
