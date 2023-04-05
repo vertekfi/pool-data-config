@@ -1,4 +1,12 @@
 {
+  "42161": {
+    "featuredPools": [],
+    "incentivizedPools": [],
+    "blacklistedPools": [],
+    "poolFilters": [],
+    "rewardPools": [],
+    "gauges": []
+  },
   "5": {
     "featuredPools": [
       "0x11422d24858d9a7396a1533ab49f594699bc8ba0000200000000000000000000",
