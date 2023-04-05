@@ -1,8 +1,15 @@
 {
   "42161": {
-    "featuredPools": [],
-    "incentivizedPools": [],
-    "blacklistedPools": [],
+    "featuredPools": [
+      "0x6e2120025bbe36e1d2ad4b8ee522c9638c1419c5000200000000000000000002"
+    ],
+    "incentivizedPools": [
+      "0x6e2120025bbe36e1d2ad4b8ee522c9638c1419c5000200000000000000000002"
+    ],
+    "blacklistedPools": [
+      "0xec5a13fe6759149df177a07740c375b8470df630000200000000000000000000",
+      "0xcf354a1566d8ac2d36a1e72765938fb01175ba5e000200000000000000000001"
+    ],
     "poolFilters": [],
     "rewardPools": [],
     "gauges": []
