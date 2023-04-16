@@ -202,7 +202,7 @@
       },
       {
         "poolId": "0x14653b0cf9b368ce807999ce3346e1eee8b21efa00020000000000000000001a",
-        "gauge": "0x9f8f3BAbfe6d1d3BAa2B89c9dC530F082863ec87"
+        "address": "0x9f8f3BAbfe6d1d3BAa2B89c9dC530F082863ec87"
       }
     ]
   }
