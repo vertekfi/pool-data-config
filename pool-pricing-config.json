@@ -1,0 +1,71 @@
+{
+  "42161": [
+    {
+      "tokenAddress": "0x412A1ab6A00B50A7ad2306C994ae609Bd823ad87",
+      "pricingTokenAddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+      "poolId": "0x289f6e6c7d3a86ce76f9aea0ece0e3517f18e09a000200000000000000000003"
+    }
+  ],
+  "56": [
+    {
+      "tokenAddress": "0xeD236c32f695c83Efde232c288701d6f9C23E60E",
+      "pricingTokenAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "poolId": "0xdd64e2ec144571b4320f7bfb14a56b2b2cbf37ad000200000000000000000000"
+    },
+    {
+      "tokenAddress": "0xb9E05B4C168B56F73940980aE6EF366354357009",
+      "pricingTokenAddress": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "poolId": "0x248d943b9d59c4be35d41b34f79370dfbf577b2b000200000000000000000002"
+    },
+    {
+      "tokenAddress": "0xFa4b16b0f63F5A6D0651592620D585D308F749A4",
+      "pricingTokenAddress": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "poolId": "0x0db861235c7b90d419a64e1f71b3687db74d4477000200000000000000000001"
+    },
+    {
+      "tokenAddress": "0x12b70d84DAb272Dc5A24F49bDbF6A4C4605f15da",
+      "pricingTokenAddress": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "poolId": "0xcf61cf9654f5536b8d6c93f09a0308ff3c2650f9000200000000000000000015"
+    },
+    {
+      "tokenAddress": "0x6640e6f8e3DD1Fb5D7361ee2249E1ea23cB2C297",
+      "pricingTokenAddress": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "poolId": "0x32934c1122c0d7b0fc3daab588a4490b53c1568c00020000000000000000000e"
+    },
+    {
+      "tokenAddress": "0xd50c729cEbb64604b99E1243a54e840527360581",
+      "pricingTokenAddress": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "poolId": "0xae42be6a9f75a2b53229e262e0488df6ecfeb53a000200000000000000000012"
+    },
+    {
+      "tokenAddress": "0x3CC9E655B6c4f530DFc1b1fC51CeEa65c6344716",
+      "pricingTokenAddress": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "poolId": "0x8e15953eba7d5f8f99853d8f3cb64fc73b3ba770000200000000000000000003"
+    },
+    {
+      "tokenAddress": "0x50d8D7F7CcEA28cc1C9dDb996689294dC62569cA",
+      "pricingTokenAddress": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "poolId": "0x6e30ec031f2d94c397e469b40f86bff0be014124000200000000000000000006"
+    },
+    {
+      "tokenAddress": "0xD68F75b3aa54bee23e6Ac3AD4b3C28D3E6319725",
+      "pricingTokenAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "poolId": "0xa237bd3b190f12661ed838033b7228e7dc9c78d8000100000000000000000014"
+    },
+    {
+      "tokenAddress": "0x5376A83112100Ff1567b2782e0d99c6d949b5509",
+      "pricingTokenAddress": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "poolId": "0x64bf08fac067b25c77967affafce73760d8d0bdf000200000000000000000011"
+    },
+    {
+      "tokenAddress": "0xADD201771400783B465f550c1907713A8b839823",
+      "pricingTokenAddress": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "poolId": "0x40fefd04dacac704710c1973a21eb18b016bcbb0000100000000000000000019"
+    },
+    {
+      "tokenAddress": "0xc91324601B20ea0e238B63c9fAfca18d32600722",
+      "pricingTokenAddress": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "poolId": "0x3700d8fadab83c14371d3f58d122d0c7f832e63f00020000000000000000000b"
+    }
+  ]
+}
